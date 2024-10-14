@@ -1,0 +1,6 @@
+let myData=new Date()
+//console.log(myData)
+//console.log(myData.toLocaleString())
+//console.log(typeof(myData))
+let newData = new Date(2024,9,14)
+console.log(newData)
